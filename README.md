@@ -11,7 +11,7 @@ The site contains:
 - Local electricity demand
 - Grid connection
 
-<img src="figures/system_overview.jpg" width="20%">
+<img src="figures/system_overview.jpg" width="50%">
 
 The optimization jointly determines local asset operation and the site's positions in the day-ahead (DA) and imbalance (IMB) markets.
 
@@ -71,13 +71,13 @@ Visualization
 ## Key Results
 
 <p align="center">
-  <img src="figures/expected_revenue.png" width="35%">
-  <img src="figures/daily_revenue_low.png" width="35%">
+  <img src="figures/expected_revenue.png" width="55%">
+  <img src="figures/daily_revenue_low.png" width="55%">
 </p>
 
 <p align="center">
-  <img src="figures/daily_revenue_medium.png" width="35%">
-  <img src="figures/daily_revenue_high.png" width="35%">
+  <img src="figures/daily_revenue_medium.png" width="55%">
+  <img src="figures/daily_revenue_high.png" width="55%">
 </p>
 
 - With **high forecast accuracy**, co-optimization significantly outperforms sequential optimization.
