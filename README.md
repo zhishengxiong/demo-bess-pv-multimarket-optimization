@@ -71,13 +71,13 @@ Visualization
 ## Key Results
 
 <p align="center">
-  <img src="figures/expected_revenue.png" width="55%">
-  <img src="figures/daily_revenue_low.png" width="55%">
+  <img src="figures/expected_revenue.png" width="75%">
+  <img src="figures/daily_revenue_low.png" width="75%">
 </p>
 
 <p align="center">
-  <img src="figures/daily_revenue_medium.png" width="55%">
-  <img src="figures/daily_revenue_high.png" width="55%">
+  <img src="figures/daily_revenue_medium.png" width="75%">
+  <img src="figures/daily_revenue_high.png" width="75%">
 </p>
 
 - With **high forecast accuracy**, co-optimization significantly outperforms sequential optimization.
